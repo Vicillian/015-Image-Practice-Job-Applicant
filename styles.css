@@ -1,0 +1,19 @@
+h2 {
+    font-family: 'Poor Story', cursive; Color:Grey; text-align: Center;
+    }
+p {
+    color: red;text-align:center;
+    }
+img {  
+    height:230px; Width:400px;
+    }
+ul {
+    text-align:center;
+    }
+    body {
+   background-image: url("https://res.cloudinary.com/firstnotify/image/upload/c_fill,d_Logo_ysxlov.jpg,f_auto,h_450,q_auto,w_300/fqc3zdtuejzyndfmblaa");
+   background-color: #cccccc;
+}
+h1 {
+    color: Red;}
+h3 {}
